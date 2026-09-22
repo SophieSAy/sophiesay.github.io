@@ -1,8 +1,11 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: 关于我
+icon: fas fa-user
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+欢迎来到我的博客
+
+我是 Sophie，男朋友 @艾因Ayn
+喜欢旅游、凯尔特音乐、中世纪西幻
+专心经营自己的老鼠人生活，随缘发点男朋友、旅游照片及无用杂记
