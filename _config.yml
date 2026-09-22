@@ -235,3 +235,12 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+title: SophieS 的博客
+tagline: 记录我的想法与生活
+description: >- # 描述
+  欢迎来到我的博客，随缘留些生活记录。
+url: "https://sophiesay.github.io"
+github:
+  username: SophieSAy
+lang: zh-CN
+timezone: Asia/Shanghai
